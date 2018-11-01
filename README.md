@@ -1,4 +1,4 @@
-# Angular 6 for Enterprise-Ready Web Applications
+# AWS Certified Solutions Architect – Associate Guide
 
 <a href="https://www.packtpub.com/web-development/angular-6-enterprise-ready-web-applications?utm_source=github&utm_medium=repository&utm_campaign=9781786462909"><img src="https://www.packtpub.com/sites/default/files/B05684_cover.png" alt="Angular 6 for Enterprise-Ready Web Applications" height="256px" align="right"></a>
 
