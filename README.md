@@ -10,13 +10,13 @@ This is the code repository for [AWS Certified Solutions Architect – Associate
 Angular 6 for Enterprise-Ready Web Applications follows a hands-on and minimalist approach demonstrating how to design and architect high quality apps.
 
 This book covers the following exciting features:
-* Create full-stack web applications using Angular and RESTful APIs 
-* Master Angular fundamentals, RxJS, CLI tools, unit testing, GitHub, and Docker 
-* Design and architect responsive, secure and scalable apps to deploy on AWS
-* Adopt a minimalist, value-first approach to delivering your app with Kanban
-* Get introduced to automated testing with continuous integration on CircleCI 
+* Explore AWS terminology and identity and access management
+* Acquaint yourself with important cloud services and features in categories such as compute, network, storage, and databases
+* Define access control to secure AWS resources and set up efficient monitoring
+* Back up your database and ensure high availability by understanding all of the database-related services in the AWS Cloud
+* Integrate AWS with your applications to meet and exceed non-functional requirements
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1786462907) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789130662) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -25,26 +25,23 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 ![Amazon reviews](https://github.com/techsachinkumar/test-repo/blob/master/Amazon.png)
 
-You can purchase this book at Amazon, [Angular 6 for Enterprise-Ready Web Applications](https://www.amazon.com/dp/1786462907)
+You can purchase this book at Amazon, [AWS Certified Solutions Architect – Associate Guide](https://www.amazon.com/dp/1789130662)
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter21.
 
 The code will look like the following:
 ```
-  "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
-   },
+{
+"Tenancy": "default",
+"GroupName": "",
+"AvailabilityZone": "us-east-1a"
+}
 ```
 
 **Following is what you need for this book:**
 
-This book is for developers who want to confidently deliver high-quality and production-grade Angular apps from design to deployment. We assume that you have prior experience in writing a RESTful API with the tech stack of your choice; if you don't, you can still gain a lot of benefit from this book, which focuses on the entire scope of frontend development, from design to deployment!
+The AWS Certified Solutions Architect – Associate Guide is for you if you are an IT professional or Solutions Architect wanting to pass the AWS Certified Solution Architect – Associate 2018 exam. This book is also for developers looking to start building scalable applications on AWS.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
@@ -55,10 +52,9 @@ With the following software and hardware list you can run all code files present
 | All      | An AWS account                      | NA                                 |
 
 
-### Related products <Other books you may enjoy>
-* Hands-on Full Stack Development with Angular 5 and Firebase [[Packt]](https://www.packtpub.com/application-development/hands-full-stack-development-angular-5-and-firebase?utm_source=github&utm_medium=repository&utm_campaign=9781788298735) [[Amazon]](https://www.amazon.com/dp/178829873X)
+### Related product <Other books you may enjoy>
+* AWS Certified Developer - Associate Guide [[Packt]](https://www.packtpub.com/virtualization-and-cloud/aws-certified-developer-associate-guide?utm_source=github&utm_medium=repository&utm_campaign=9781787125629) [[Amazon]](https://www.amazon.com/dp/1787125629)
 
-* Architecting Angular Applications with Redux, RxJS, and NgRx [[Packt]](https://www.packtpub.com/web-development/architecting-angular-applications-redux?utm_source=github&utm_medium=repository&utm_campaign=9781787122406) [[Amazon]](https://www.amazon.com/dp/1787122409)
 
 ## Get to Know the Authors
 **Gabriel Ramirez** is a passionate technologist with a broad experience in the Software Industry, he currently works as an Authorized Trainer for Amazon Web Services and Google Cloud.
