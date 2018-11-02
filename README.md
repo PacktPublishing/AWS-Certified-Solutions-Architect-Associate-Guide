@@ -7,7 +7,7 @@ This is the code repository for [AWS Certified Solutions Architect – Associate
 **Deliver production-ready and cloud-scale Angular web apps**
 
 ## What is this book about?
-Angular 6 for Enterprise-Ready Web Applications follows a hands-on and minimalist approach demonstrating how to design and architect high quality apps.
+With rapid adaptation of the cloud platform, the need for cloud certification has also increased. This is your one stop solution and will help you transform yourself from zero to certified. This guide will help you gain technical expertise in the AWS platform and help you start working with various AWS Services.
 
 This book covers the following exciting features:
 * Explore AWS terminology and identity and access management
