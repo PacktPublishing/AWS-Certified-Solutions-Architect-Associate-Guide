@@ -1,6 +1,6 @@
 # AWS Certified Solutions Architect – Associate Guide
 
-<a href="https://www.packtpub.com/virtualization-and-cloud/aws-certified-solution-architect-associate-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130669><img src="https://www.packtpub.com/sites/default/files/9781789130669cover.png" alt="AWS Certified Solutions Architect – Associate Guide" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/virtualization-and-cloud/aws-certified-solution-architect-associate-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130669"><img src="https://www.packtpub.com/sites/default/files/9781789130669cover.png" alt="AWS Certified Solutions Architect – Associate Guide" height="256px" align="right"></a>
 
 This is the code repository for [AWS Certified Solutions Architect – Associate Guide](https://www.packtpub.com/virtualization-and-cloud/aws-certified-solution-architect-associate-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130669), published by Packt.
 
