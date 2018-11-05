@@ -21,10 +21,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
-### Amazon Reviews
-
-![Amazon reviews](https://github.com/techsachinkumar/test-repo/blob/master/Amazon.png)
-
 You can purchase this book at Amazon, [AWS Certified Solutions Architect – Associate Guide](https://www.amazon.com/dp/1789130662)
 
 ## Instructions and Navigations
