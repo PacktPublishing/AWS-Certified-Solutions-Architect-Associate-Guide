@@ -1,0 +1,12 @@
+Resources:
+  Ec2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      ImageId: ami-0922553b7b0369273
+      KeyName: MyEC2KeyPair
+      NetworkInterfaces:
+        - AssociatePublicIpAddress: true
+          DeviceIndex: 0
+          GroupSet:
+            - sg-0abe65d366868b774
+          SubnetId: subnet-91a8b9f5

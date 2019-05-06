@@ -1,0 +1,36 @@
+Parameters:
+  InstanceTypeParameter:
+    Type: String
+    Default: t2.micro
+    AllowedValues:
+      - t2.micro
+      - m1.small
+      - m1.large
+    Description: Enter t2.micro, m1.small, or m1.large. Default is t2.micro.
+
+  MyEC2KeyPairParameter:
+    Description: Existing EC2 KeyPair to enable SSH access to the instance
+    Type: AWS::EC2::KeyPair::KeyName
+
+  MySecurityGroupParameter:
+    Type: List<AWS::EC2::SecurityGroup>
+
+Mappings:
+  RegionMap:
+      us-east-1:
+        HVM64: ami-0ff8a91507f77f867
+        HVMG2: ami-0a584ac55a7631c0c
+      us-west-1:
+        HVM64: ami-0bdb828fd58c52235
+        HVMG2: ami-066ee5fd4a9ef77f1
+
+Resources:
+  Ec2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType:
+        Ref: InstanceTypeParameter
+      ImageId: !FindInMap [RegionMap, !Ref "AWS::Region", HVM64]
+      KeyName: Ref! MyEC2KeyPairParameter
+      SecurityGroups:
+        - Ref: MySecurityGroupParameter

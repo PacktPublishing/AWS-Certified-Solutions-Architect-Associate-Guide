@@ -1,0 +1,20 @@
+{
+    "Rules": [
+        {
+            "Expiration": {
+                "Days": 380
+            },
+            "ID": "STANDARD-GLACIER-DELETE",
+            "Filter": {
+                "Prefix": ""
+            },
+            "Status": "Enabled",
+            "Transitions": [
+                {
+                    "Days": 15,
+                    "StorageClass": "GLACIER"
+                }
+            ]
+        }
+    ]
+}

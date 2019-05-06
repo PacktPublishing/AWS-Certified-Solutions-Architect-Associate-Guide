@@ -1,0 +1,6 @@
+{
+  "Type": "archive-retrieval",
+  "ArchiveId": "<replace-your-archive-id-here>",
+  "Description": "Retrieve archive.zip",
+  "SNSTopic":"arn:aws:sns:us-west-2:111111:optional-topic-name"
+}
