@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B10781?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # AWS Certified Solutions Architect – Associate Guide
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/aws-certified-solution-architect-associate-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130669"><img src="https://www.packtpub.com/sites/default/files/9781789130669cover.png" alt="AWS Certified Solutions Architect – Associate Guide" height="256px" align="right"></a>
