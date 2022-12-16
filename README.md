@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789130669)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # AWS Certified Solutions Architect – Associate Guide
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/aws-certified-solution-architect-associate-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130669"><img src="https://www.packtpub.com/sites/default/files/9781789130669cover.png" alt="AWS Certified Solutions Architect – Associate Guide" height="256px" align="right"></a>
